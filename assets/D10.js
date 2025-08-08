@@ -507,7 +507,7 @@ halfTree(3);
 
 /* ESERCIZIO 28
   Crea una funzione chiamata "tree" che riceve un numero come parametro e costruisce un albero di "*" (asterischi) dell'altezza fornita.
-TODO La via potrebbe essere quella di sopra per generare ma come faccio a mettere gli spazi alla seconda riga? Ci stava un modo per levare gli spazi ai lati quindi ci sta un modo per metterli
+TODO La via potrebbe essere quella di sopra per generare ma come faccio a mettere gli spazi alla seconda riga? Ci stava un modo per levare gli spazi ai lati quindi ci sta un modo per metterli. Che si possa unire un po' all'esercizio 2?
   Esempio:
   tree(3)
 
