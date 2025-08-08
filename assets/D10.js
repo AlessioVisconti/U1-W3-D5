@@ -95,7 +95,7 @@ function splitMe(str) {
   });
   return wordMap;
 }
-console.log(splitMe(str));
+console.log("i love coding grande:", splitMe(str));
 /* ESERCIZIO 4
   Crea una funzione chiamata "deleteOne" che riceve una stringa e un booleano come parametri.
   Se il valore booleano è true la funzione deve ritornare la stringa senza il primo carattere, altrimenti la deve ritornare senza l'ultimo.
